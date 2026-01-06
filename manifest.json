@@ -1,0 +1,10 @@
+{
+  "installerLatest": "1.0.0",
+  "supportedBuilds": [
+    {
+      "name": "Post Void (Steam) - Build 1",
+      "dataWinSha256": "20708991806a6fd0dbd06fa0a0627d4f98125c25ab2c213f4b8cbe8f8f3f715c",
+      "modFile": "mods/modded_data.win"
+    }
+  ]
+}
