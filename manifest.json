@@ -1,6 +1,7 @@
 {
   "name": "PV Mod Loader",
   "version": "1.0.0",
-  "modFile": "https://raw.githubusercontent.com/Kun0Discord/PV-Mod-Loader/main/modded_data.win",
+  "modFile": "https://github.com/Kun0Discord/PV-Mod-Loader/releases/download/pv-0.0.0/modded_data.win",
   "game": "Post Void"
 }
+
